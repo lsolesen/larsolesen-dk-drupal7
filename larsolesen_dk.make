@@ -42,7 +42,7 @@ projects[pathauto][version] = 1.2
 
 projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.x-dev
-projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.pat
+projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.patch
 
 projects[scribd_filter][subdir] = contrib
 projects[scribd_filter][version] = 1.3
